@@ -1,0 +1,1 @@
+pip install dhooks selenium bs4 PySimpleGUI terminaltables
